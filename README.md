@@ -3,10 +3,16 @@ Single-Page CV
 
 PROJECT 1.
 
-Create a single-page HTML CV to showcase your career history.
+This project is focused on creating a single-page HTML CV showcasing my career history.
 
-The goal of this project is to teach you how to create a structured, single-page CV using only HTML. You will focus on laying out your education, skills, and career history in a clean, semantic manner. Styling will be addressed in a later project.
+The goal of this project is to learn how to create a structured, single-page CV using only HTML. 
 
-In this project, you are required to create a single-page CV (Curriculum Vitae) using only HTML.
+The focus would be laying out the following:
+- education
+- skills
+- career history
 
-https://roadmap.sh/projects/single-page-cv
+in a clean, semantic manner. 
+No styling will be addressed in this project.
+
+This project is for https://roadmap.sh/projects/single-page-cv
